@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "644874797485",
+    "firebase_url": "https://pardna-app-default-rtdb.firebaseio.com",
+    "project_id": "pardna-app",
+    "storage_bucket": "pardna-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644874797485:android:aa3c491f28b026584ce124",
+        "android_client_info": {
+          "package_name": "com.romaine.pardna.pardna_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644874797485-5nfub4lj73fbb8q0nb5mqklivrm24bts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.romaine.pardna.pardna_app",
+            "certificate_hash": "d3ecea9ba75c752dc7b8da2ba6017b8fb0d03b91"
+          }
+        },
+        {
+          "client_id": "644874797485-ndporgf0u7s8hjmnt37fkutq22tadmo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEYGPCFfDwqZXLGfSh3QrwMgFIBO0rsgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644874797485-ndporgf0u7s8hjmnt37fkutq22tadmo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
